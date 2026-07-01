@@ -7,13 +7,16 @@ for the materials in this entry repository.
 
 These boundaries do not prohibit access, reading, reference,
 or discussion.
+
 They exist to prevent misreading,
 over-extension,
-and unintended responsibility transfer.
+and unintended transfer of responsibility,
+authority, or judgment.
 
 This repository presents certain materials
 as belonging to a general and publicly accessible entry layer
 of structural analysis.
+
 This does not mean that the repository provides
 a fixed operational protocol,
 a universal evaluation framework,
@@ -38,10 +41,12 @@ the material within their own context.
 
 Accordingly:
 
-- interpretation, reconstruction, judgment,
-  adoption, and application
-  remain solely the responsibility
-  of the party that performs or assumes them
+- non-observational responsibility,
+  including interpretation, reconstruction,
+  judgment, adoption, application,
+  reliance, and resulting outcomes,
+  remains with the party
+  that performs or assumes such acts
 - reference to this repository
   does not replace independent judgment
 - public availability does not imply
@@ -125,7 +130,22 @@ This does not mean that:
   for hiring, exclusion, evaluation,
   classification, or operational decision-making
 
-If such use, conversion,
+The absence of non-observational responsibility
+must not be interpreted
+as the absence of responsibility.
+
+Responsibility is not removed,
+but bounded:
+
+- maintained within the defined observational scope
+- not assumed outside that scope
+- not transferred by interpretation,
+  reconstruction, adoption,
+  application, reliance,
+  similarity, reference,
+  exposure, or other use
+
+If external use, conversion,
 or operationalization occurs,
 it constitutes a separate external act,
 and the resulting responsibility
@@ -155,12 +175,15 @@ as overriding it.
 
 이 경계는 접근, 열람, 참조,
 또는 논의를 금지하기 위한 것이 아니다.
+
 오독, 과도한 외삽,
-의도되지 않은 책임 이전을
+의도되지 않은 책임, 권한,
+또는 판단의 이전을
 막기 위해 존재한다.
 
 이 레포지토리는 일부 자료를
 구조 분석의 일반적·공개 가능 입구 층에 속하는 것으로 제시한다.
+
 그러나 이것이 곧
 고정된 운영 프로토콜,
 보편적 평가 기준,
@@ -188,8 +211,11 @@ as overriding it.
 따라서:
 
 - 해석, 재구성, 판단,
-  채택, 적용의 책임은
-  이를 수행하거나 수용하는 당사자에게만 남는다
+  채택, 적용, 의존,
+  그리고 그 결과를 포함한
+  비관측 책임은
+  그러한 행위를 수행하거나 수용하는
+  당사자에게 남는다
 - 본 레포지토리에 대한 참조는
   독자적 판단을 대체하지 않는다
 - 공개되어 있다는 사실만으로
@@ -270,7 +296,21 @@ as overriding it.
   분류, 운영 의사결정의
   직접 기준으로 사용할 수 있다는 뜻
 
-그러한 사용, 변환,
+비관측 책임을 전제하지 않는다는 것은
+책임이 없다는 뜻으로
+해석되어서는 안 된다.
+
+책임은 제거되는 것이 아니라
+경계 지어진다:
+
+- 정의된 관측 범위 안에서는 유지된다
+- 그 범위 밖에서는 전제되지 않는다
+- 해석, 재구성, 채택,
+  적용, 의존, 유사성, 참조,
+  노출, 또는 기타 사용에 의해
+  이전되지 않는다
+
+외부 사용, 변환,
 또는 운영화가 이루어지는 경우,
 그것은 별도의 외부 행위이며,
 그로부터 발생하는 책임은
