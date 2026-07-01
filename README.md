@@ -5,7 +5,7 @@ This repository presents certain materials as part of a general and publicly acc
 This classification reflects the author's judgment about their position within broadly available analytical knowledge.
 It does not constitute any warranty of completeness, suitability, or universal applicability.
 
-Use, interpretation, and application remain the responsibility of the user.
+Non-observational responsibility remains with the party that interprets, reconstructs, adopts, applies, relies on, or otherwise uses the material.
 
 ---
 
@@ -64,7 +64,7 @@ However, the author makes a limited contribution in having integrated and arrang
 이 분류는 공개 선행자료와의 연결 가능성 및 일반적 지식 역량층에 대한 작성자의 판단을 반영한 것이다.
 이는 완전성, 적합성, 보편적 적용 가능성에 대한 어떠한 보증도 의미하지 않는다.
 
-사용, 해석, 적용의 책임은 사용자에게 있다.
+비관측 책임은 자료를 해석, 재구성, 채택, 적용, 의존, 또는 기타 방식으로 사용하는 당사자에게 남는다.
 
 ---
 
