@@ -52,21 +52,22 @@ Accordingly:
   should be interpreted as transferring
   responsibility, authority,
   or judgment to the author
+  
+## Direct Access
+
+Repository materials may be accessed directly through deep links, search results, external references, isolated file views, or other non-root entry paths.
+
+Such access does not remove the interpretive boundary defined in this document.
+
+Where an individual document includes a Direct Access Notice, that notice only indicates that README.md and INTERPRETATION-BOUNDARIES.md should be reviewed first.
+It does not create an independent rule, restriction, method, or separate interpretive framework.
 
 ## Responsibility Model
 
 Responsibility in relation to this repository
-is structured along the following boundaries.
+is defined by the following boundaries.
 
-### 1. Execution Responsibility
-
-Responsibility for concrete decisions,
-applications, operations,
-selection, evaluation,
-or resulting real-world outcomes
-is not assumed by this repository.
-
-### 2. Observational Responsibility
+### 1. Observational Responsibility
 
 Responsibility is maintained
 within the defined scope
@@ -75,13 +76,36 @@ structural explanation,
 and boundary-setting
 for the publicly disclosed entry layer.
 
+This responsibility does not mean
+a warranty of correctness, completeness,
+applicability,
+or fitness for any particular use.
+
+It means only that the repository maintains
+responsibility for how the entry-layer materials
+are presented, arranged, explained,
+and bounded within the stated scope.
+
+### 2. Non-Observational Responsibility
+
+Responsibility for interpretation,
+reconstruction, adoption, application,
+operation, evaluation, reliance,
+or resulting real-world outcomes
+outside the defined observational scope
+is not assumed by this repository.
+
+Such responsibility remains with the party
+that interprets, reconstructs, adopts,
+applies, relies on,
+or otherwise uses the material.
+
 ### 3. External Attribution
 
-Any attempt to assign,
-extend, or transfer responsibility
-to the author
-beyond the defined boundary above
-is not permitted within the interpretive scope
+Any attempt to assign, extend,
+or transfer responsibility to the author
+beyond the defined observational boundary
+is outside the interpretive scope
 of this repository.
 
 ## Boundary Clarifications
@@ -176,35 +200,59 @@ as overriding it.
   작성자에게 책임, 권한,
   또는 판단을 이전하는 것으로
   해석되어서는 안 된다
+  
+## 직접 접근
+
+레포지토리의 자료는 딥링크, 검색 결과, 외부 참조, 개별 파일 보기, 또는 루트가 아닌 진입 경로를 통해 직접 접근될 수 있다.
+
+그러한 접근은 본 문서에 정의된 해석 경계를 제거하지 않는다.
+
+개별 문서에 직접 접근 고지가 포함된 경우, 해당 고지는 README.md 및 INTERPRETATION-BOUNDARIES.md를 먼저 확인해야 한다는 점을 표시하기 위한 것이다.
+이는 독립적인 규칙, 제한, 방법, 또는 별도의 해석 체계를 생성하지 않는다.
 
 ## 책임 모델
 
 본 레포지토리와 관련된 책임은
-다음 경계에 따라 구조화된다.
+다음 경계에 따라 정의된다.
 
-### 1. 실행 책임
-
-구체적 의사결정,
-적용, 운영,
-선별, 평가,
-또는 현실 결과에 대한 책임은
-본 레포지토리가 전제하지 않는다.
-
-### 2. 관측 책임
+### 1. 관측 책임
 
 공개된 입구 층에 대해
 무엇을 어떤 범위로 제시하고,
 어떻게 배열·설명하며,
 어디까지를 경계로 설정하는지에 대한 책임은
-정의된 범위 내에서 유지된다.
+정의된 범위 안에서 유지된다.
+
+이 책임은 정확성, 완전성,
+적용 가능성,
+또는 특정 사용 목적에 대한 적합성을
+보증한다는 의미가 아니다.
+
+이는 본 레포지토리가
+입구 층 자료를 어떤 방식으로
+제시, 배열, 설명,
+경계 설정했는지에 대한 책임을
+명시된 범위 안에서 유지한다는 의미에 한정된다.
+
+### 2. 비관측 책임
+
+정의된 관측 범위 밖에서 발생하는
+해석, 재구성, 채택, 적용,
+운영, 평가, 의존,
+또는 현실 결과에 대한 책임은
+본 레포지토리가 전제하지 않는다.
+
+그러한 책임은
+자료를 해석, 재구성, 채택,
+적용, 의존,
+또는 기타 방식으로 사용하는 당사자에게 남는다.
 
 ### 3. 외부 귀속
 
-위에서 정의된 경계를 넘어
+위에서 정의된 관측 경계를 넘어
 작성자에게 책임을 부여,
 확장, 또는 이전하려는 해석은
-본 레포지토리의 해석 범위 안에서
-허용되지 않는다.
+본 레포지토리의 해석 범위 밖에 있다.
 
 ## 경계 명확화
 

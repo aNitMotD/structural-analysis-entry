@@ -1,3 +1,9 @@
+> **직접 접근 고지 / Direct Access Notice**  
+> 본 문서는 저장소의 README.md 및 INTERPRETATION-BOUNDARIES.md를 먼저 확인했다는 전제에서 읽어야 한다.  
+> This document should be read on the assumption that the repository README.md and INTERPRETATION-BOUNDARIES.md have been reviewed first.
+
+---
+
 # NON-RELIANCE-NOTICE
 
 ## English

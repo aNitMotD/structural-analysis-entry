@@ -20,6 +20,24 @@ has been reviewed.
 
 ---
 
+## What This Document Does Not Answer
+
+When reading this document, certain questions may arise immediately. For example:
+
+Questions:
+- So what am I supposed to do, then?
+- Where am I supposed to apply this?
+- What in this can be used directly in practice?
+
+This is all that can be said here.
+
+Answer:
+- Only you know.
+- I cannot know your context.
+- Therefore, this document does not provide that answer.
+
+---
+
 ## On Structure and Context
 
 If the structure is the same, context is not the core variable of structural analysis.  
@@ -55,6 +73,24 @@ However, the author makes a limited contribution in having integrated and arrang
 
 위 경계를 먼저 확인한 이후에,
 이 레포지토리의 나머지 문서를 읽는 것을 전제로 한다.
+
+---
+
+## 이 문서가 답하지 않는 것
+
+이 문서를 읽으면 곧바로 떠오르는 질문들이 있을 수 있다. 예를 들면 다음과 같다.
+
+질문:
+- 그래서 내가 뭘 하면 되는데?
+- 이걸 어디에 적용하면 되는데?
+- 실무에서 바로 쓸 수 있는 건 뭐지?
+
+여기서 해줄 수 있는 말은 이것뿐이다.
+
+답:
+- 당신만 안다.
+- 당신의 맥락을 내가 알 수 없다.
+- 그래서 이 문서는 그 답을 제공하지 않는다.
 
 ---
 
