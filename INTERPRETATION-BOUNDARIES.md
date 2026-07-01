@@ -135,7 +135,7 @@ must not be interpreted
 as the absence of responsibility.
 
 Responsibility is not removed,
-but bounded:
+but maintained only within the defined boundary:
 
 - maintained within the defined observational scope
 - not assumed outside that scope
@@ -300,8 +300,8 @@ as overriding it.
 책임이 없다는 뜻으로
 해석되어서는 안 된다.
 
-책임은 제거되는 것이 아니라
-경계 지어진다:
+책임은 제거되는 것이 아니라,
+정의된 경계 안에서만 유지된다:
 
 - 정의된 관측 범위 안에서는 유지된다
 - 그 범위 밖에서는 전제되지 않는다
