@@ -42,10 +42,18 @@ Answer:
 
 If the structure is the same, context is not the core variable of structural analysis.  
 By contrast, solutions are dependent on concrete context.  
-From the author's perspective, structural analysis does not deny context; it temporarily separates structure from context before returning to context at the point of actual use.  
-Therefore, structural analysis belongs not to the solution itself, but to a cognitive procedure that operates prior to solution-making.  
-Because general structural analysis is disclosed with context removed, any actual use presupposes that each person recognizes and reconstructs it within their own context.  
-Also, once a cognitive procedure is reduced back into a fixed procedure, cognition is lost, and the remaining procedure no longer functions properly in its original sense.
+
+From the author's perspective, structural analysis does not deny context,  
+it temporarily separates structure from context before returning to context at the point of actual use.  
+
+Therefore, structural analysis belongs not to the solution itself,  
+but to a cognitive procedure that operates prior to solution-making.  
+
+Because general structural analysis is disclosed with context removed,  
+any actual use presupposes that each person recognizes and reconstructs it within their own context.  
+
+Also, once a cognitive procedure is reduced back into a fixed procedure,  
+cognition is lost, and the remaining procedure no longer functions properly in its original sense.
 
 ---
 
@@ -99,10 +107,18 @@ However, the author makes a limited contribution in having integrated and arrang
 
 구조가 같으면 맥락은 구조 분석의 핵심 변수가 아니다.  
 반대로 해결방법은 구체적 맥락에 종속된다.  
-작성자의 관점에서 구조 분석은 맥락을 부정하는 것이 아니라, 해결 이전에 구조와 맥락을 일시적으로 분리한 뒤 실제 사용 단계에서 다시 맥락으로 되돌리는 절차다.  
-따라서 구조 분석은 해결방법 그 자체가 아니라, 해결 이전에 작동하는 인지적 절차에 속한다.  
-일반적 구조 분석은 맥락을 제거한 채 공개되므로, 실제 사용은 각자가 자기 맥락을 인지하고 다시 구성하는 과정을 전제한다.  
-또한 인지적 절차가 다시 고정된 절차로 환원되면, 인지는 소실되고, 남은 절차 역시 원래의 방식대로는 제대로 작동하지 않는다.
+
+작성자의 관점에서 구조 분석은 맥락을 부정하는 것이 아니라,  
+해결 이전에 구조와 맥락을 일시적으로 분리한 뒤 실제 사용 단계에서 다시 맥락으로 되돌리는 절차다.  
+
+따라서 구조 분석은 해결방법 그 자체가 아니라,  
+해결 이전에 작동하는 인지적 절차에 속한다.  
+
+일반적 구조 분석은 맥락을 제거한 채 공개되므로,  
+실제 사용은 각자가 자기 맥락을 인지하고 다시 구성하는 과정을 전제한다.  
+
+또한 인지적 절차가 다시 고정된 절차로 환원되면,  
+인지는 소실되고, 남은 절차 역시 원래의 방식대로는 제대로 작동하지 않는다.
 
 ---
 
