@@ -2,7 +2,7 @@
 
 This repository presents certain materials as part of a general and publicly accessible layer of structural analysis entry.
 
-This classification reflects the author's judgment about their position within broadly available analytical knowledge.
+This classification reflects the author's judgment about their position within broadly available analytical knowledge.  
 It does not constitute any warranty of completeness, suitability, or universal applicability.
 
 Non-observational responsibility remains with the party that interprets, reconstructs, adopts, applies, relies on, or otherwise uses the material.
@@ -69,7 +69,7 @@ However, the author makes a limited contribution in having integrated and arrang
 
 이 레포지토리는 일부 자료를 구조 분석 입구의 일반적·공개 가능 층에 속하는 것으로 제시한다.
 
-이 분류는 공개 선행자료와의 연결 가능성 및 일반적 지식 역량층에 대한 작성자의 판단을 반영한 것이다.
+이 분류는 공개 선행자료와의 연결 가능성 및 일반적 지식 역량층에 대한 작성자의 판단을 반영한 것이다.  
 이는 완전성, 적합성, 보편적 적용 가능성에 대한 어떠한 보증도 의미하지 않는다.
 
 비관측 책임은 자료를 해석, 재구성, 채택, 적용, 의존, 또는 기타 방식으로 사용하는 당사자에게 남는다.
