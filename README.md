@@ -59,8 +59,8 @@ cognition is lost, and the remaining procedure no longer functions properly in i
 
 ## Notes
 
-This repository deals with elements that belong to general analytical capabilities.
-Accordingly, it does not presuppose any exclusive claim over the individual elements themselves.
+This repository deals with elements that belong to general analytical capabilities.  
+Accordingly, it does not presuppose any exclusive claim over the individual elements themselves.  
 However, the author makes a limited contribution in having integrated and arranged these elements in a specific order from the perspective of an entry point to structural analysis.
 
 ---
@@ -124,6 +124,6 @@ However, the author makes a limited contribution in having integrated and arrang
 
 ## 참고
 
-이 레포는 일반적 분석 역량에 속하는 요소들을 다룬다.
-따라서 개별 요소 자체에 대한 독점 주장을 전제하지 않는다.
+이 레포는 일반적 분석 역량에 속하는 요소들을 다룬다.  
+따라서 개별 요소 자체에 대한 독점 주장을 전제하지 않는다.  
 다만 작성자는 이 요소들을 구조 분석의 입구라는 관점에서 특정 순서로 통합·배열했다는 점에서 제한된 기여를 가진다.
